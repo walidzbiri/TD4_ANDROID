@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsList</string>
+    <string name="button_text">Login</string>
+    <string name="button_news">Details</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_ok">Ok</string>
+
+</resources>
